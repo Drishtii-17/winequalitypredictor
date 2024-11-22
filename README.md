@@ -10,10 +10,6 @@ A machine learning project aimed at predicting the quality of wine based on its 
 - [Dataset Information](#dataset-information)
 - [Project Workflow](#project-workflow)
 - [Algorithms Used](#algorithms-used)
-- [Installation](#installation)
-- [Results and Insights](#results-and-insights)
-- [Future Enhancements](#future-enhancements)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
