@@ -87,12 +87,3 @@ Each algorithm was optimized for accuracy and evaluated using cross-validation.
 
 ---
 
-## Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/wine-quality-prediction.git
-cd wine-quality-prediction
-
-### 2. Installation Dependencies
